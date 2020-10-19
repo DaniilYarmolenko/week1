@@ -1,7 +1,8 @@
 {
 "headers": {
-"/*":{
-  "X-Author": "daniilyarmolenko"
+"/*": {
+  "X-Author": "daniilyarmolenko",
+  "Access-Control-Allow-Origin": "*"
   }
  }
 }
